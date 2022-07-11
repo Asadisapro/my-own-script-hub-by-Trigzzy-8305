@@ -108,7 +108,7 @@ AutofarmSection:NewButton("Madcity", "Farm", function()
 end)
 
 AutofarmSection:NewButton("mm2", "farm", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/8tSDP2PS",true))();
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script'),true))()
 end)
 
 
